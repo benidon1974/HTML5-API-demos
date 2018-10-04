@@ -5,7 +5,7 @@ For every API listed in this repository you'll find a link to the specifications
 
 In this repository you can learn about the following APIs, listed in alphabetic order:
 
-| API   | Specifications | Article | Support | Live demo |
+| <b>API</b>   | <b>Specifications</b> | <b>Article</b> | <b>Support</b> | <b>Live demo</b> |
 | ----- | :------------: | :-----: | :-----: | :-------: |
 | Ambient Light API| [Specifications](http://www.w3.org/TR/ambient-light/) | [Article](http://modernweb.com/2014/05/27/introduction-to-the-ambient-light-api/) | [Support](http://caniuse.com/#feat=ambient-light) | [Live demo](http://aurelio.audero.it/demo/ambient-light-api-demo.html)
 | Battery Status API| [Specifications](http://www.w3.org/TR/battery-status/) | [Article](http://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795) | [Support](http://caniuse.com/#feat=battery-status) | [Live demo](http://aurelio.audero.it/demo/battery-status-api-demo.html)
